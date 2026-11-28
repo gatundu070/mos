@@ -24,6 +24,6 @@
     "moduleDetection": "force",
     "skipLibCheck": true
   },
-  "include": ["src/**/*", "src/config/env.ts"],
+  "include": ["src/**/*", "src/config/env.ts", "src/features/multiplier/.ts"],
   "exclude": ["node_modules", "dist"]
 }
